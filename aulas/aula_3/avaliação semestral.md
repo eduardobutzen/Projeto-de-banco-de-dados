@@ -7,4 +7,4 @@
     * Para cada diagrama criado, salvar em imagem ( .png ou .jpeg )
     * Dentro do repositório pessoal da disciplina no github, criar pasta da avaliação e disponibilizar essas imagens
     * Ao final, enviar email para alexz@ufn.edu.br, com assunto: "avaliação BD", no corpo do email, mandar o link do repositório
-onde estão as imagens 
+onde estão as imagens.  
