@@ -8,4 +8,4 @@ Uma entrevista com o gerente da administradora resultou nas seguintes informaç�
 
 - Exercício resolvido:
 
-![alt text](image.png)
+![alt text](image.png) 
